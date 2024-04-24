@@ -1,0 +1,42 @@
+[{
+  "id": 1,
+  "model": "CBR1000RR-R Fireblade",
+  "img": "https://i.ibb.co/c6SPdmd/CBR1000-RR-Fireblade.jpg"
+
+},{
+  "id": 2,
+  "model": "CBR1000RR-R Fireblade SP",
+  "img": "https://i.ibb.co/qnMBpqw/CBR1000-RR-R-Fireblade-SP.jpg"
+},{
+  "id": 3,
+  "model": "CBR150R",
+  "img": "https://i.ibb.co/jh41VNt/CBR150R.webp"
+},{
+  "id": 4,
+  "model": "CBR300R",
+  "img": "https://i.ibb.co/hBPcpg0/CBR300R.jpg"
+},{
+  "id": 5,
+  "model": "CBR500R",
+  "img": "https://i.ibb.co/GvbGrzP/CBR500R.jpg"
+},{
+  "id": 6,
+  "model": "CBR600RR",
+  "img": "https://i.ibb.co/9ZK8jMd/CBR600RR.jpg"
+},{
+  "id": 7,
+  "model": "CBR650R",
+  "img": "https://i.ibb.co/fntffWz/CBR650R.jpg"
+},{
+  "id": 8,
+  "model": "CBR650F",
+  "img": "https://i.ibb.co/FWTrcsm/CBR650F.webp"
+},{
+  "id": 9,
+  "model": "CBR125R",
+  "img": "https://i.ibb.co/XbFwKHM/CBR125R.webp"
+},{
+  "id": 10,
+  "model": "CBR1000RR",
+  "img": "https://i.ibb.co/JBQ7pGT/CBR1000-RR.jpg"
+}]
